@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ef790a4-7c26-4f6e-a98f-b7b6b9022f14" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/javabasics/Base.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/javabasics/BaseChildUnMatchedMethodCalling.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/javabasics/Child.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/javabasics/Child2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/javabasics/CovariantReturnTypeDemo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/javabasics/Parent.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/threadlocalconcept/NewTask.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/threadlocalconcept/Task.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/threadlocalconcept/ThreadLocalDemo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/threadlocalconcept/ThreadLocalJava8Demo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/threadlocalconcept/ThreadSafeDateFormatter$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/threadlocalconcept/ThreadSafeDateFormatter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/threadlocalconcept/ThreadSafeDateFormatterJava8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaconcepts.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/javabasics/BaseChildUnMatchedMethodCalling.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/javabasics/CovariantReturnTypeDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/threadlocalconcept/ThreadLocalDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/threadlocalconcept/ThreadLocalJava8Demo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -54,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/threadlocalconcept/ThreadLocalDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-216">
-              <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+              <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#232#482#0" expanded="true" />
@@ -80,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/javabasics/CovariantReturnTypeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -90,17 +66,17 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/javabasics/BaseChildUnMatchedMethodCalling.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+              <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/.gitignore">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -133,6 +109,7 @@
         <option value="$PROJECT_DIR$/src/main/java/javabasics/CovariantReturnTypeDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/javabasics2/ParentChildUnMatchedMethodCalling.java" />
         <option value="$PROJECT_DIR$/src/main/java/javabasics/BaseChildUnMatchedMethodCalling.java" />
+        <option value="$PROJECT_DIR$/src/.gitignore" />
       </list>
     </option>
   </component>
@@ -188,6 +165,21 @@
               <item name="javaconcepts" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaconcepts" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaconcepts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaconcepts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javabasics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaconcepts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaconcepts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -208,6 +200,9 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -410,12 +405,12 @@
       <workItem from="1584980170476" duration="1439000" />
       <workItem from="1585021943117" duration="617000" />
       <workItem from="1585488582883" duration="2983000" />
-      <workItem from="1585829752938" duration="929000" />
+      <workItem from="1585829752938" duration="1881000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9298000" />
+    <option name="totallyTimeSpent" value="10250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -671,7 +666,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/javabasics/BaseChildUnMatchedMethodCalling.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -679,7 +674,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/javabasics/CovariantReturnTypeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -687,7 +682,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/threadlocalconcept/ThreadLocalDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-216">
-          <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+          <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#232#482#0" expanded="true" />
@@ -696,10 +691,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/.gitignore">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="216">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
           <folding />
         </state>
       </provider>
